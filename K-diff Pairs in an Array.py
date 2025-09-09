@@ -1,4 +1,5 @@
 '''
+Competiving Coding 3: K-diff pairs in an array
 abs|nums[i] - nums[j]| = k
 => nums[i] - nums[j] = +/- k   
 => nums[i] = k + nums[j] or nums[i] = -k + nums[j]
